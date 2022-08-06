@@ -12,13 +12,13 @@ github_username: SparkKnightTeam
 
 # Email and twitter are optional:
 email:spark_knight_cn@163.com
-twitter_username:
+twitter_username: No such official account has been registered
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: No such official account has been registered
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
