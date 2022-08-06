@@ -1,4 +1,6 @@
-Spark_Knight Team(2019-2022)'s blog,Welcome！😶‍🌫️
+Spark_Knight Team(2019-2022)'s blog,Welcome！😶‍🌫️  
+
+![image](https://github.com/SparkKnightTeam/SparkKnightTeam.github.io/blob/master/Fi9n5yxb3GnuZOX2y6nq7iDlp7Ld.png)
 
 ## Spark_Knight Team's Blog
 
