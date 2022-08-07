@@ -6,19 +6,19 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Spark_Knight Team's Blog
-description: 风带来了故事的种子，时间使其发芽。The wind brings the seeds of the story, and time germinates them.
+title: Spark_Knight Team's Blog（Test server）
+description: Formal server：https://sparkknightteam.github.io/
 github_username: SparkKnightTeam
 
 # Email and twitter are optional:
 email: spark_knight_cn@163.com
-twitter_username: No such official account has been registered
+twitter_username: Sorry,we don't have like this!
 
 # Set this to true to get LaTeX math equation support
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: No such official account has been registered
+google_analytics: Sorry,we don't have like this!
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
