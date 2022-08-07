@@ -3,7 +3,7 @@
 Spark_Knight Team(2019-2022)'s blog,Welcome！😶‍🌫️  
 This information is published in:🇨🇳  
 This information is valid in:🌏（Except for a few countries and regions）
-______________________________________________________________
+______________________________________________________________  
 
 ·感谢各位对*Spark_Knight Team*的支持，此团队博客使用**GitHub**制作，而我们团队对此还仅仅只能算是小白水平，所以在成品方面做的不好还请见谅🥲。  
 近期，我们一直在赶工制作此博客，终于，在2022/8/6，此博客成功的面世，也算不枉我们团队这么长时间的努力！  
