@@ -34,18 +34,21 @@ ___________________________________________
 
 ### Ⅳ.User works release  
 
-**[submission time]**  
-**2022 / 8 / 6, starting from 19:00 PM * *, the email will be received 24 hours a day and will reply within * 1 ~ 48h * (please pay attention to our email information)  
-**[submission format requirements]**  
-1. Content * unlimited *, subject * unlimited *, number of words * unlimited *, and language * unlimited * (if minority fonts are used, we will translate them and release them)  
-2. **Title Requirements**: Format: * author's name + place where the work was submitted (for example, if you were in China when you submitted the work, please fill in China) + language of the work + title of the work (length is not limited, but it should not be too excessive)*
-3. The submitted works can be * * typed directly in the mailbox or directly delivered to word documents (PDF, PPT and other formats are not supported temporarily)**  
-**[contribution reward]**  
-*[ordinary contribution reward]*  
+**[submission time]**
+**2022 / 8 / 6, starting from 19:00 PM * *, the email will be received 24 hours a day and will reply within * 1 ~ 48h * (please pay attention to our email information)
+**[submission format requirements]**
+1. (written contribution) * original *, content * unlimited *, subject * unlimited *, number of words * unlimited *, language * unlimited*
+(painting contribution) * original *, length * unlimited *, resolution * greater than 50 * 50*
+(video, animation contribution) * original *, video resolution * not less than 720p *, subject matter * unlimited*
+(Music contribution) * original *, music length * not less than 30s*
+2.Title Requirements * *: Format: * author's name + region where the work was submitted (for example, if you were in China when you submitted the work, please fill in China) + work size / number of words + title of the work (length is not limited, but not too much)*
+3. Publishing format of submitted works: * PNG, JPG, MP4, word document, MP3, GIF, zip, rar, etc. (PDF, PPT and other formats are not supported temporarily)**
+**[contribution reward]**
+*[ordinary contribution reward]*
 1. For each submission (here, it refers to the works that have been reviewed and published), increase the professional value ① by 1 (upper limit: 10. After reaching the upper limit, you will receive our email. After you reply to the email, you can directly join spark_knight team and receive higher salary share)
-*[reward for high-quality contributions]*  
-1. In addition to enjoying all the rewards of "ordinary contribution", high-quality contributions will also add 1 professional value and 1 professional value on the basis of "ordinary contribution reward" for each contribution (here, it refers to the works that have been reviewed and published) ⭐ (full 5 ⭐ Become spark_ Backbone members of knight team, 10% ~ 20% higher than ordinary members each time)  
-2. If your work brings honor or income to the team, it will be divided into * * 70% of you and 30% of the team. You will also directly become a backbone member of the team and receive physical rewards from the team (the price of rewards is related to the income your work brings to us, and the rewards are usually delivered by express delivery)  
+*[reward for high-quality contributions]*
+1. In addition to enjoying all the rewards of "ordinary contribution", high-quality contributions will also add 1 professional value and 1 professional value on the basis of "ordinary contribution reward" for each contribution (here, it refers to the works that have been reviewed and published) ⭐ (full 5 ⭐ Become spark_ Backbone members of knight team, 10% ~ 20% higher than ordinary members each time)
+2. If your work brings honor or income to the team, it will be divided into * * 70% of you and 30% of the team. You will also directly become a backbone member of the team and receive physical rewards from the team (the price of rewards is related to the income your work brings to us, and the rewards are usually delivered by express delivery)
 
 _________________________________________________________  
 
@@ -53,9 +56,12 @@ _________________________________________________________
 **2022/8/6，晚19：00开始**，每天24小时邮箱持续接收，并会于*1~48h*内给予回复（请注意留意我们的邮件信息）  
 
 **[投稿格式要求]**  
-1.内容*不限*，题材*不限*，文字字数*不限*，使用语言*不限*（如果使用的是小众字体，我们会进行翻译后再发布）  
-2.**※标题要求**：格式：*作者名+作品投稿地区（例如，你投稿时身处中国，就填中国）+作品使用语言+作品标题（长度不限，但也不要太过分）*  
-3.投稿作品可以**直接在邮箱内打字，也可以直接投递Word文档（pdf、ppt等格式暂不支持）**  
+1.（文字投稿）*原创*，内容*不限*，题材*不限*，文字字数*不限*，使用语言*不限*  
+  （绘画投稿）*原创*，篇幅大小*不限*，分辨率*大于50*50*  
+  （视频、动画投稿）*原创*，视频分辨率*不低于720P*，题材*不限*  
+  （音乐投稿）*原创*，音乐长度*不小于30s*
+2.**※标题要求**：格式：*作者名+作品投稿地区（例如，你投稿时身处中国，就填中国）+作品大小/字数+作品标题（长度不限，但也不要太过分）*  
+3.投稿作品发布格式：*png,jpg,mp4,word文档,mp3,gif,ZIP,RAR等（pdf、ppt等格式暂不支持）**  
 
 **[投稿奖励]**  
 *[普通投稿奖励]*  
